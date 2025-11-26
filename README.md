@@ -1,1 +1,3 @@
-Ik ben Javi Suarez Muller, een enthousiaste software-ontwikkelaar in opleiding aan het ROC van Amsterdam. Ik leer graag nieuwe technieken en vind vooral Python en webdevelopment erg leuk. Ik ben leergierig, behulpzaam en gemotiveerd om mezelf te ontwikkelen tijdens een stage.
+## Portfolio Javi Suarez Muller
+
+Ik ben Javi Suarez Muller, een enthousiaste software-developer in opleiding aan het ROC van Amsterdam. Ik leer graag nieuwe technieken en vind vooral Python en webdevelopment erg leuk. Ik ben leergierig, behulpzaam en gemotiveerd om mezelf te ontwikkelen tijdens een stage.
